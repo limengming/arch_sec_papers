@@ -215,6 +215,12 @@
 
 * [Hierarchy] [Jenga: Software-Defined Cache Hierarchies](https://dl.acm.org/citation.cfm?id=3080214)
 
+## HPCA 2017
+
+* [Replacement] [Maximizing Cache Performance Under Uncertainty](https://doi.org/10.1109/HPCA.2017.43)
+* [CMP Cache, Mapping] [SWAP: Effective Fine-Grain Management of Shared Last-Level Caches with Minimum Hardware Support](https://doi.org/10.1109/HPCA.2017.65)
+* [Cache Modeling] [Fast and Accurate Exploration of Multi-level Caches Using Hierarchical Reuse Distance](https://doi.org/10.1109/HPCA.2017.11)
+
 # 2018
 ## ISCA 2018
 
@@ -222,6 +228,12 @@
 * [Prefetch] [Criticality Aware Tiered Cache Hierarchy: A Fundamental Relook at Multi-Level Cache Hierarchies] (https://doi.org/10.1109/ISCA.2018.00019)
 * [Replacement, Prefetch] [Rethinking Belady's Algorithm to Accommodate Prefetching](https://doi.org/10.1109/ISCA.2018.00020)
 * [ICache Replacement] [Exploring Predictive Replacement Policies for Instruction Cache and Branch Target Buffer](https://doi.org/10.1109/ISCA.2018.00050)
+
+## HPCA 2018
+
+* [CMP Cache, Mapping] [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](https://doi.org/10.1109/HPCA.2018.00019)
+* [SIPT: Speculatively Indexed, Physically Tagged Caches](https://doi.org/10.1109/HPCA.2018.00020)
+* [Prefetch] [Domino Temporal Data Prefetcher](https://doi.org/10.1109/HPCA.2018.00021)
 
 # 2019
 ## ISCA 2019
@@ -234,6 +246,11 @@
 * [Replacement] [Applying Deep Learning to the Cache Replacement Problem](https://doi.org/10.1145/3352460.3358319)
 * [Prefetch] [DSPatch: Dual Spatial Pattern Prefetcher](https://doi.org/10.1145/3352460.3358325)
 * [Prefetch] [Temporal Prefetching Without the Off-Chip Metadata](https://doi.org/10.1145/3352460.3358300)
+
+## HPCA 2019
+
+* [Prefetch] [Bingo Spatial Data Prefetcher](https://doi.org/10.1109/HPCA.2019.00053)
+* [Cache Modeling] [Featherlight Reuse-Distance Measurement](https://doi.org/10.1109/HPCA.2019.00056)
 
 # 2020
 ## ISCA 2020
@@ -255,6 +272,11 @@
 
 * [AI Prefetch] [Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning](https://doi.org/10.1145/3466752.3480114)
 
+## HPCA 2021
+
+* [Replacement] [Designing a Cost-Effective Cache Replacement Policy using Machine Learning](https://doi.org/10.1109/HPCA51647.2021.00033)
+* [Replacement] [Stream Floating: Enabling Proactive and Decentralized Cache Optimizations](https://doi.org/10.1109/HPCA51647.2021.00060)
+
 # 2022
 ## ISCA 2022
 
@@ -266,3 +288,8 @@
 * [Prefetch] [Page Size Aware Cache Prefetching](https://doi.org/10.1109/MICRO56248.2022.00070)
 * [Prefetch] [Berti: an Accurate Local-Delta Data Prefetcher](https://doi.org/10.1109/MICRO56248.2022.00072)
 * [Prefetch] [Merging Similar Patterns for Hardware Prefetching](https://doi.org/10.1109/MICRO56248.2022.00071)
+
+## HPCA 2022
+
+* [Structure] [Reducing Load Latency with Cache Level Prediction](https://doi.org/10.1109/HPCA53966.2022.00054)
+* [Replacement] [TCOR: A Tile Cache with Optimal Replacement](https://doi.org/10.1109/HPCA53966.2022.00055)
