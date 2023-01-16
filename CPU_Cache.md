@@ -154,7 +154,7 @@
 
 * [Prefetch] [RECAP: A region-based cure for the common cold (cache)](https://doi.org/10.1109/HPCA.2013.6522309)
 * [CMP Cache] [Improving multi-core performance using mixed-cell cache architecture](https://doi.org/10.1109/HPCA.2013.6522309)
-* [Cache Modeling] [Modeling performance variation due to cache sharing](https://doi.org/10.1109/HPCA.2013.6522312()
+* [Cache Modeling] [Modeling performance variation due to cache sharing](https://doi.org/10.1109/HPCA.2013.6522312)
 
 # 2014
 ## ISCA 2014
