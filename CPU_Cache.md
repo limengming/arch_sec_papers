@@ -97,7 +97,7 @@
 ## MICRO 2010
 
 * [Inclusion Policy] [Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies](https://doi.org/10.1109/MICRO.2010.52)
-* [Dead Block] [https://doi.org/10.1109/MICRO.2010.24](https://doi.org/10.1109/MICRO.2010.24)
+* [Dead Block] [Sampling Dead Block Prediction for Last-Level Caches](https://doi.org/10.1109/MICRO.2010.24)
 * [Mapping] [The ZCache: Decoupling Ways and Associativity](https://doi.org/10.1109/MICRO.2010.20)
 
 ## HPCA 2010
