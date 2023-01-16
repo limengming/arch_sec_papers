@@ -9,6 +9,11 @@
 * [CMP Cache] [Adaptive Mechanisms and Policies for Managing Cache Hierarchies in Chip Multiprocessors](https://doi.org/10.1109/ISCA.2005.8)
 * [Mapping, Replacement] [The V-Way Cache: Demand Based Associativity via Global Replacement](https://doi.org/10.1109/ISCA.2005.52)
 
+## HPCA 2005
+
+* [CMP Cache] [Predicting Inter-Thread Cache Contention on a Chip Multi-Processor Architecture](https://doi.org/10.1109/HPCA.2005.27)
+* [Instruction Prefetch, CMP Cache] [Effective Instruction Prefetching in Chip Multiprocessors for Modern Commercial Applications](https://doi.org/10.1109/HPCA.2005.13)
+
 # 2006
 ## ISCA 2006
 
@@ -24,6 +29,10 @@
 * [CMP Cache] [ASR: Adaptive Selective Replication for CMP Caches](https://doi.org/10.1109/MICRO.2006.10)
 * [CMP Cache] [Managing Distributed, Shared L2 Caches through OS-Level Page Allocation](https://doi.org/10.1109/MICRO.2006.31)
 
+## HPCA 2006
+
+* [CMP Cache] [Last level cache (LLC) performance of data mining workloads on a CMP - a case study of parallel bioinformatics workloads](https://doi.org/10.1109/HPCA.2006.1598115)
+
 # 2007
 ## ISCA 2007
 
@@ -35,12 +44,23 @@
 * [Replacement] [Scavenger: A New Last Level Cache Architecture with Global Block Priority](https://doi.org/10.1109/MICRO.2007.25)
 * [Prefetch] [A Framework for Coarse-Grain Optimizations in the On-Chip Memory Hierarchy](https://doi.org/10.1109/MICRO.2007.14)
 
+## HPCA 2007
+
+* [CMP Cache, Mapping] [An Adaptive Shared/Private NUCA Cache Partitioning Scheme for Chip Multiprocessors](https://doi.org/10.1109/HPCA.2007.346180)
+* [Prefetch Enhancement] [Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers](https://doi.org/10.1109/HPCA.2007.346180)
+* [Prefetch] [Accelerating and Adapting Precomputation Threads for Effcient Prefetching](https://doi.org/10.1109/HPCA.2007.346187)
+* [CMP Cache, Compression, Prefetch] [Interactions Between Compression and Prefetching in Chip Multiprocessors](https://doi.org/10.1109/HPCA.2007.346200)
+
 # 2008
 ## MICRO 2008
 
 * [Cache Modeling] [Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs](https://doi.org/10.1109/MICRO.2008.4771779)
 * [Dead Block] [Cache bursts: A new approach for eliminating dead blocks and increasing cache efficiency](https://doi.org/10.1109/MICRO.2008.4771793)
 * [Dead Block] [Reducing the harmful effects of last-level cache polluters with an OS-level, software-only pollute buffer](https://doi.org/10.1109/MICRO.2008.4771796)
+
+## HPCA 2008
+
+* [CMP Cache, Mapping] [Gaining insights into multicore cache partitioning: Bridging the gap between simulation and real systems](https://doi.org/10.1109/HPCA.2008.4658653)
 
 # 2009
 ## ISCA 2009
@@ -59,6 +79,15 @@
 * [Mapping] [Adaptive line placement with the set balancing cache](https://doi.org/10.1145/1669112.1669178)
 * [CMP Prefetch] [Coordinated control of multiple prefetchers in multi-core systems](https://doi.org/10.1145/1669112.1669154)
 
+## HPCA 2009
+
+* [CMP Cache] [Adaptive Spill-Receive for robust high-performance caching in CMPs](https://doi.org/10.1109/HPCA.2009.4798236)
+* [CMP Cache] [Design and implementation of software-managed caches for multicores with local memory](https://doi.org/10.1109/HPCA.2009.4798237)
+* [Prefetch] [Practical off-chip meta-data for temporal memory streaming](https://doi.org/10.1109/HPCA.2009.4798239)
+* [Cache Modeling] [A first-order fine-grained multithreaded throughput model](https://doi.org/10.1109/HPCA.2009.4798270)
+* [CMP Prefetch] [Techniques for bandwidth-efficient prefetching of linked data structures in hybrid prefetching systems](https://doi.org/10.1109/HPCA.2009.4798232)
+* [Prefetch Enhancement] [Feedback mechanisms for improving probabilistic memory prefetching](https://doi.org/10.1109/HPCA.2009.4798282)
+
 # 2010
 ## ISCA 2010
 
@@ -70,6 +99,10 @@
 * [Inclusion Policy] [Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies](https://doi.org/10.1109/MICRO.2010.52)
 * [Dead Block] [https://doi.org/10.1109/MICRO.2010.24](https://doi.org/10.1109/MICRO.2010.24)
 * [Mapping] [The ZCache: Decoupling Ways and Associativity](https://doi.org/10.1109/MICRO.2010.20)
+
+## HPCA 2010
+
+* [CMP Cache] [StimulusCache: Boosting performance of chip multiprocessors with excess cache](https://doi.org/10.1109/HPCA.2010.5416644)
 
 # 2011
 
@@ -84,6 +117,13 @@
 * [Replacement] [SHiP: signature-based hit predictor for high performance caching](https://doi.org/10.1145/2155620.2155671)
 * [Replacement, Prefetch] [PACMan: prefetch-aware cache management for high performance caching](https://doi.org/10.1145/2155620.2155672)
 
+## HPCA 2011
+
+* [CMP Cache] [CloudCache: Expanding and shrinking private caches](https://doi.org/10.1109/HPCA.2011.5749731) 
+* [CPM Cache, Herarchy] [MorphCache: A Reconfigurable Adaptive Multi-level Cache hierarchy](https://doi.org/10.1109/HPCA.2011.5749732)
+* [Mapping] [NUcache: An efficient multicore cache organization based on Next-Use distance](https://doi.org/10.1109/HPCA.2011.5749733])
+* [CMP Cache] [ACCESS: Smart scheduling for asymmetric cache CMPs](https://doi.org/10.1109/HPCA.2011.5749757)
+
 # 2012
 ## ISCA 2012
 
@@ -95,6 +135,12 @@
 * [Replacement] [Improving Cache Management Policies Using Dynamic Reuse Distances](https://ieeexplore.ieee.org/document/6493636)
 * [Structure] [Amoeba-Cache: Adaptive Blocks for Eliminating Waste in the Memory Hierarchy](https://doi.org/10.1109/MICRO.2012.42)
 
+## HPCA 2012
+
+* [CMP Cache] [Adaptive Set-Granular Cooperative Caching](https://doi.org/10.1109/HPCA.2012.6169028)
+* [Replacement] [Decoupled dynamic cache segmentation](https://doi.org/10.1109/HPCA.2012.6169030)
+* [Cache Modeling] [WEST: Cloning data cache behavior using Stochastic Traces](https://doi.org/10.1109/HPCA.2012.6169042)
+
 # 2013
 ## MICRO 2013
 
@@ -103,6 +149,12 @@
 * [Prefetch] [Linearizing irregular memory accesses for improved correlated prefetching](https://doi.org/10.1145/2540708.2540730)
 * [Instruction Prefetch] [RDIP: return-address-stack directed instruction prefetching](https://doi.org/10.1145/2540708.2540731)
 * [Instruction Prefetch] [SHIFT: shared history instruction fetch for lean-core server processors](https://doi.org/10.1145/2540708.2540732)
+
+## HPCA 2013
+
+* [Prefetch] [RECAP: A region-based cure for the common cold (cache)](https://doi.org/10.1109/HPCA.2013.6522309)
+* [CMP Cache] [Improving multi-core performance using mixed-cell cache architecture](https://doi.org/10.1109/HPCA.2013.6522309)
+* [Cache Modeling] [Modeling performance variation due to cache sharing](https://doi.org/10.1109/HPCA.2013.6522312()
 
 # 2014
 ## ISCA 2014
@@ -114,6 +166,12 @@
 * [Mapping] [Futility Scaling: High-Associativity Cache Partitioning](https://doi.org/10.1109/MICRO.2014.46)
 * [Prefetch] [BuMP: Bulk Memory Access Prediction and Streaming](https://doi.org/10.1109/MICRO.2014.44)
 * [Prefetch] [Loop-Aware Memory Prefetching Using Code Block Working Sets](https://doi.org/10.1109/MICRO.2014.27)
+
+## HPCA 2014
+
+* [CMP Cache] [Locality-aware data replication in the Last-Level Cache](https://doi.org/10.1109/HPCA.2014.6835921)
+* [Mapping] [Improving cache performance using read-write partitioning](https://doi.org/10.1109/HPCA.2014.6835954)
+* [Prefetch] [Sandbox Prefetching: Safe run-time evaluation of aggressive prefetchers](https://doi.org/10.1109/HPCA.2014.6835971)
 
 # 2015
 ## ISCA 2015
@@ -127,6 +185,12 @@
 * [Prefetch] [Self-contained, accurate precomputation prefetching](https://doi.org/10.1145/2830772.2830816)
 * [Prefetch] [IMP: indirect memory prefetcher](https://doi.org/10.1145/2830772.2830807)
 
+## HPCA 2015
+
+* [Prefetch] [Talus: A simple way to remove cliffs in cache performance](https://doi.org/10.1109/HPCA.2015.7056022)
+* [Placement] [Priority-based cache allocation in throughput processors](https://doi.org/10.1109/HPCA.2015.7056024)
+* [Inclusion Policy] [High performing cache hierarchies for server workloads: Relaxing inclusion to capture the latency benefits of exclusive caches](https://doi.org/10.1109/HPCA.2015.7056045)
+
 # 2016
 ## ISCA 2016
 
@@ -137,6 +201,14 @@
 
 * [Prefetch] [pTask: A smart prefetching scheme for OS intensive applications](https://doi.org/10.1109/MICRO.2016.7783706)
 * [Prefetch] [Path confidence based lookahead prefetching](https://doi.org/10.1109/MICRO.2016.7783763)
+
+## HPCA 2016
+
+* [Replacement] [Minimal disturbance placement and promotion](https://doi.org/10.1109/HPCA.2016.7446065)
+* [Replacement, Cache Modeling] [Modeling cache performance beyond LRU](https://doi.org/10.1109/HPCA.2016.7446067)
+* [Dead Block] [RADAR: Runtime-assisted dead region management for last-level caches](https://doi.org/10.1109/HPCA.2016.7446101)
+* [Cache QoS: From concept to reality in the Intel® Xeon® processor E5-2600 v3 product family](https://doi.org/10.1109/HPCA.2016.7446102)
+* [Prefetch] [Best-offset hardware prefetching](https://doi.org/10.1109/HPCA.2016.7446087)
 
 # 2017
 ## ISCA 2017
