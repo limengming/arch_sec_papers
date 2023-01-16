@@ -126,7 +126,19 @@
 * [SIPT: Speculatively Indexed, Physically Tagged Caches](https://lph.ece.utexas.edu/merez/uploads/MattanErez/sipt_hpca18.pdf)
 * [Don't  Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag](https://www.semanticscholar.org/paper/Don%E2%80%99t-Correct-the-Tags-in-a-Cache%2C-Just-Check-Their-Gendler-Bramnik/7989ef776a642c7b8e68c857dc839e24d3416c87)
 
+# 2005
+## ISCA 2005
+
+* [CMP Cache] [Adaptive Mechanisms and Policies for Managing Cache Hierarchies in Chip Multiprocessors](https://doi.org/10.1109/ISCA.2005.8)
+* [Mapping, Replacement] [The V-Way Cache: Demand Based Associativity via Global Replacement](https://doi.org/10.1109/ISCA.2005.52)
+
 # 2006
+## ISCA 2006
+
+* [Replacement] [A Case for MLP-Aware Cache Replacement](https://doi.org/10.1109/ISCA.2006.5)
+* [CMP Cache] [Cooperative Caching for Chip Multiprocessors]https://doi.org/10.1109/ISCA.2006.17
+* [Prefetch] [Spatial Memory Streaming](https://doi.org/10.1109/ISCA.2006.38)
+
 ## MICRO 2006
 
 * [Prefetch] [Memory Prefetching Using Adaptive Stream Detection](https://doi.org/10.1109/MICRO.2006.32)
@@ -136,6 +148,11 @@
 * [CMP Cache] [Managing Distributed, Shared L2 Caches through OS-Level Page Allocation](https://doi.org/10.1109/MICRO.2006.31)
 
 # 2007
+## ISCA 2007
+
+* [CMP Cache] [Comparing memory systems for chip multiprocessors](https://doi.org/10.1145/1250662.1250707)
+* [Replacement] [Adaptive insertion policies for high performance caching](https://doi.org/10.1145/1250662.1250709)
+
 ## MICRO 2007
 
 * [Replacement] [Scavenger: A New Last Level Cache Architecture with Global Block Priority](https://doi.org/10.1109/MICRO.2007.25)
@@ -149,6 +166,14 @@
 * [Dead Block] [Reducing the harmful effects of last-level cache polluters with an OS-level, software-only pollute buffer](https://doi.org/10.1109/MICRO.2008.4771796)
 
 # 2009
+## ISCA 2009
+
+* [CMP Cache] [Multi-execution: multicore caching for data-similar executions](https://doi.org/10.1145/1555754.1555777)
+* [Replacement] [PIPP: promotion/insertion pseudo-partitioning of multi-core shared caches](https://doi.org/10.1145/1555754.1555778)
+* [Cache Modeling] [ECMon: exposing cache events for monitoring](https://doi.org/10.1145/1555754.1555798)
+* [Prefetch] [Stream chaining: exploiting multiple levels of correlation in data prefetching](https://doi.org/10.1145/1555754.1555767)
+* [Prefetch] [Spatio-temporal memory streaming](https://doi.org/10.1145/1555754.1555766)
+
 ## MICRO 2009
 
 * [Replacement] [Pseudo-LIFO: the foundation of a new family of replacement policies for last-level caches](https://doi.org/10.1145/1669112.1669164)
@@ -158,6 +183,11 @@
 * [CMP Prefetch] [Coordinated control of multiple prefetchers in multi-core systems](https://doi.org/10.1145/1669112.1669154)
 
 # 2010
+## ISCA 2010
+
+* [CMP Cache] [Shared caches in multicores: the good, the bad, and the ugly](https://doi.org/10.1145/1815961.1815990)
+* [Replacement] [High performance cache replacement using re-reference interval prediction (RRIP)](https://doi.org/10.1145/1815961.1815971)
+
 ## MICRO 2010
 
 * [Inclusion Policy] [Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies](https://doi.org/10.1109/MICRO.2010.52)
@@ -165,12 +195,24 @@
 * [Mapping] [The ZCache: Decoupling Ways and Associativity](https://doi.org/10.1109/MICRO.2010.20)
 
 # 2011
+
+## ISCA 2011
+
+* [Mapping] [Vantage: scalable and efficient fine-grain cache partitioning](https://doi.org/10.1145/2000064.2000073)
+* [Replacement, Bypass] [Bypass and insertion algorithms for exclusive last-level caches](https://doi.org/10.1145/2000064.2000075)
+* [CMP Prefetch] [Prefetch-aware shared resource management for multi-core systems](https://doi.org/10.1145/2000064.2000081)
+
 ## MICRO 2011
 
 * [Replacement] [SHiP: signature-based hit predictor for high performance caching](https://doi.org/10.1145/2155620.2155671)
 * [Replacement, Prefetch] [PACMan: prefetch-aware cache management for high performance caching](https://doi.org/10.1145/2155620.2155672)
 
 # 2012
+## ISCA 2012
+
+* [Inclusion Policy] [FLEXclusion: Balancing cache capacity and on-chip bandwidth via Flexible Exclusion](https://doi.org/10.1109/ISCA.2012.6237028)
+
+
 ## MICRO 2012
 
 * [Replacement] [Improving Cache Management Policies Using Dynamic Reuse Distances](https://ieeexplore.ieee.org/document/6493636)
@@ -186,6 +228,10 @@
 * [Instruction Prefetch] [SHIFT: shared history instruction fetch for lean-core server processors](https://doi.org/10.1145/2540708.2540732)
 
 # 2014
+## ISCA 2014
+* [Structure] [Navigating the cache hierarchy with a single lookup](https://doi.org/10.1109/ISCA.2014.6853203)
+* [Mapping] [Going vertical in memory management: Handling multiplicity by multi-policy](https://doi.org/10.1109/ISCA.2014.6853214)
+
 ## MICRO 2014
 
 * [Mapping] [Futility Scaling: High-Associativity Cache Partitioning](https://doi.org/10.1109/MICRO.2014.46)
@@ -193,6 +239,10 @@
 * [Prefetch] [Loop-Aware Memory Prefetching Using Code Block Working Sets](https://doi.org/10.1109/MICRO.2014.27)
 
 # 2015
+## ISCA 2015
+
+* [AI Prefetch] [Semantic locality and context-based prefetching using reinforcement learning](https://doi.org/10.1145/2749469.2749473)
+
 ## MICRO 2015
 
 * [Cache Modeling] [The application slowdown model: quantifying and controlling the impact of inter-application interference at shared caches and main memory](https://doi.org/10.1145/2830772.2830803)
@@ -201,10 +251,28 @@
 * [Prefetch] [IMP: indirect memory prefetcher](https://doi.org/10.1145/2830772.2830807)
 
 # 2016
+## ISCA 2016
+
+* [Replacement] [Back to the Future: Leveraging Belady's Algorithm for Improved Cache Replacement](https://doi.org/10.1109/ISCA.2016.17)
+* [Inclusion Policy] [LAP: Loop-Block Aware Inclusion Properties for Energy-Efficient Asymmetric Last Level Caches](https://doi.org/10.1109/ISCA.2016.19)
+
 ## MICRO 2016
 
 * [Prefetch] [pTask: A smart prefetching scheme for OS intensive applications](https://doi.org/10.1109/MICRO.2016.7783706)
 * [Prefetch] [Path confidence based lookahead prefetching](https://doi.org/10.1109/MICRO.2016.7783763)
+
+# 2017
+## ISCA 2017
+
+* [Hierarchy] [Jenga: Software-Defined Cache Hierarchies](https://dl.acm.org/citation.cfm?id=3080214)
+
+# 2018
+## ISCA 2018
+
+* [Prefetch] [Division of Labor: A More Effective Approach to Prefetching](https://doi.org/10.1109/ISCA.2018.00018)
+* [Prefetch] [Criticality Aware Tiered Cache Hierarchy: A Fundamental Relook at Multi-Level Cache Hierarchies] (https://doi.org/10.1109/ISCA.2018.00019)
+* [Replacement, Prefetch] [Rethinking Belady's Algorithm to Accommodate Prefetching](https://doi.org/10.1109/ISCA.2018.00020)
+* [ICache Replacement] [Exploring Predictive Replacement Policies for Instruction Cache and Branch Target Buffer](https://doi.org/10.1109/ISCA.2018.00050)
 
 # 2019
 ## MICRO 2019
