@@ -218,3 +218,15 @@
 
 * [Instruction Prefetch] [I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing](https://doi.org/10.1109/MICRO50266.2020.00024)
 * [Prefetch] [RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher](https://doi.org/10.1109/MICRO50266.2020.00057)
+
+# 2021
+## MICRO 2021
+
+* [AI Prefetch] [Pythia: A Customizable Hardware Prefetching Framework Using Online Reinforcement Learning](https://doi.org/10.1145/3466752.3480114)
+
+# 2022
+## MICRO 2022
+
+* [Prefetch] [Page Size Aware Cache Prefetching](https://doi.org/10.1109/MICRO56248.2022.00070)
+* [Prefetch] [Berti: an Accurate Local-Delta Data Prefetcher](https://doi.org/10.1109/MICRO56248.2022.00072)
+* [Prefetch] [Merging Similar Patterns for Hardware Prefetching](https://doi.org/10.1109/MICRO56248.2022.00071)
