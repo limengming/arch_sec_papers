@@ -126,3 +126,34 @@
 * [SIPT: Speculatively Indexed, Physically Tagged Caches](https://lph.ece.utexas.edu/merez/uploads/MattanErez/sipt_hpca18.pdf)
 * [Don't  Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag](https://www.semanticscholar.org/paper/Don%E2%80%99t-Correct-the-Tags-in-a-Cache%2C-Just-Check-Their-Gendler-Bramnik/7989ef776a642c7b8e68c857dc839e24d3416c87)
 
+# 2006
+## MICRO 2006
+
+* [Prefetch] [Memory Prefetching Using Adaptive Stream Detection](https://doi.org/10.1109/MICRO.2006.32)
+* [CMP Cache] [Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches](https://doi.org/10.1109/MICRO.2006.49)
+* [CMP Cache] [Molecular Caches: A caching structure for dynamic creation of application-specific Heterogeneous cache regions](https://doi.org/10.1109/MICRO.2006.38)
+* [CMP Cache] [ASR: Adaptive Selective Replication for CMP Caches](https://doi.org/10.1109/MICRO.2006.10)
+* [CMP Cache] [Managing Distributed, Shared L2 Caches through OS-Level Page Allocation](https://doi.org/10.1109/MICRO.2006.31)
+
+# 2007
+## MICRO 2007
+
+* [Replacement] [Scavenger: A New Last Level Cache Architecture with Global Block Priority](https://doi.org/10.1109/MICRO.2007.25)
+* [Prefetch] [A Framework for Coarse-Grain Optimizations in the On-Chip Memory Hierarchy](https://doi.org/10.1109/MICRO.2007.14)
+
+# 2008
+## MICRO 2018
+
+* [Cache Modeling] [Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs](https://doi.org/10.1109/MICRO.2008.4771779)
+* [Dead Block] [Cache bursts: A new approach for eliminating dead blocks and increasing cache efficiency](https://doi.org/10.1109/MICRO.2008.4771793)
+* [Dead Block] [Reducing the harmful effects of last-level cache polluters with an OS-level, software-only pollute buffer](https://doi.org/10.1109/MICRO.2008.4771796)
+
+# 2009
+## MICRO 2009
+
+* [Replacement] [Pseudo-LIFO: the foundation of a new family of replacement policies for last-level caches](https://doi.org/10.1145/1669112.1669164)
+* [CMP Cache] [Optimizing shared cache behavior of chip multiprocessors](https://doi.org/10.1145/1669112.1669176)
+* [CMP Cache] [SHARP control: controlled shared cache management in chip multiprocessors](https://doi.org/10.1145/1669112.1669177)
+* [Dueling] [Adaptive line placement with the set balancing cache](https://doi.org/10.1145/1669112.1669178)
+* [CMP Prefetch] [Coordinated control of multiple prefetchers in multi-core systems](https://doi.org/10.1145/1669112.1669154)
+* 
