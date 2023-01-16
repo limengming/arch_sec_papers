@@ -124,5 +124,5 @@
 * [Prefetch] [Domino Temporal Data Prefetcher](https://www.computer.org/csdl/proceedings-article/hpca/2018/365901a131/12OmNzXFoA6)
 * [KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores](https://people.csail.mit.edu/sanchez/papers/2018.kpart.hpca.pdf)
 * [SIPT: Speculatively Indexed, Physically Tagged Caches](https://lph.ece.utexas.edu/merez/uploads/MattanErez/sipt_hpca18.pdf)
-* [Don't Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag](https://www.semanticscholar.org/paper/Don%E2%80%99t-Correct-the-Tags-in-a-Cache%2C-Just-Check-Their-Gendler-Bramnik/7989ef776a642c7b8e68c857dc839e24d3416c87)
+* [Don't  Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag](https://www.semanticscholar.org/paper/Don%E2%80%99t-Correct-the-Tags-in-a-Cache%2C-Just-Check-Their-Gendler-Bramnik/7989ef776a642c7b8e68c857dc839e24d3416c87)
 
