@@ -142,7 +142,7 @@
 * [Prefetch] [A Framework for Coarse-Grain Optimizations in the On-Chip Memory Hierarchy](https://doi.org/10.1109/MICRO.2007.14)
 
 # 2008
-## MICRO 2018
+## MICRO 2008
 
 * [Cache Modeling] [Hybrid analytical modeling of pending cache hits, data prefetching, and MSHRs](https://doi.org/10.1109/MICRO.2008.4771779)
 * [Dead Block] [Cache bursts: A new approach for eliminating dead blocks and increasing cache efficiency](https://doi.org/10.1109/MICRO.2008.4771793)
@@ -154,6 +154,67 @@
 * [Replacement] [Pseudo-LIFO: the foundation of a new family of replacement policies for last-level caches](https://doi.org/10.1145/1669112.1669164)
 * [CMP Cache] [Optimizing shared cache behavior of chip multiprocessors](https://doi.org/10.1145/1669112.1669176)
 * [CMP Cache] [SHARP control: controlled shared cache management in chip multiprocessors](https://doi.org/10.1145/1669112.1669177)
-* [Dueling] [Adaptive line placement with the set balancing cache](https://doi.org/10.1145/1669112.1669178)
+* [Mapping] [Adaptive line placement with the set balancing cache](https://doi.org/10.1145/1669112.1669178)
 * [CMP Prefetch] [Coordinated control of multiple prefetchers in multi-core systems](https://doi.org/10.1145/1669112.1669154)
-* 
+
+# 2010
+## MICRO 2010
+
+* [Inclusion Policy] [Achieving Non-Inclusive Cache Performance with Inclusive Caches: Temporal Locality Aware (TLA) Cache Management Policies](https://doi.org/10.1109/MICRO.2010.52)
+* [Dead Block] [https://doi.org/10.1109/MICRO.2010.24](https://doi.org/10.1109/MICRO.2010.24)
+* [Mapping] [The ZCache: Decoupling Ways and Associativity](https://doi.org/10.1109/MICRO.2010.20)
+
+# 2011
+## MICRO 2011
+
+* [Replacement] [SHiP: signature-based hit predictor for high performance caching](https://doi.org/10.1145/2155620.2155671)
+* [Replacement, Prefetch] [PACMan: prefetch-aware cache management for high performance caching](https://doi.org/10.1145/2155620.2155672)
+
+# 2012
+## MICRO 2012
+
+* [Replacement] [Improving Cache Management Policies Using Dynamic Reuse Distances](https://ieeexplore.ieee.org/document/6493636)
+* [Structure] [Amoeba-Cache: Adaptive Blocks for Eliminating Waste in the Memory Hierarchy](https://doi.org/10.1109/MICRO.2012.42)
+
+# 2013
+## MICRO 2013
+
+* [Replacement] [Insertion and promotion for tree-based PseudoLRU last-level caches](https://doi.org/10.1145/2540708.2540733)
+* [Mapping] [Imbalanced cache partitioning for balanced data-parallel programs](https://doi.org/10.1145/2540708.2540734)
+* [Prefetch] [Linearizing irregular memory accesses for improved correlated prefetching](https://doi.org/10.1145/2540708.2540730)
+* [Instruction Prefetch] [RDIP: return-address-stack directed instruction prefetching](https://doi.org/10.1145/2540708.2540731)
+* [Instruction Prefetch] [SHIFT: shared history instruction fetch for lean-core server processors](https://doi.org/10.1145/2540708.2540732)
+
+# 2014
+## MICRO 2014
+
+* [Mapping] [Futility Scaling: High-Associativity Cache Partitioning](https://doi.org/10.1109/MICRO.2014.46)
+* [Prefetch] [BuMP: Bulk Memory Access Prediction and Streaming](https://doi.org/10.1109/MICRO.2014.44)
+* [Prefetch] [Loop-Aware Memory Prefetching Using Code Block Working Sets](https://doi.org/10.1109/MICRO.2014.27)
+
+# 2015
+## MICRO 2015
+
+* [Cache Modeling] [The application slowdown model: quantifying and controlling the impact of inter-application interference at shared caches and main memory](https://doi.org/10.1145/2830772.2830803)
+* [Prefetch] [Efficiently prefetching complex address patterns] (https://doi.org/10.1145/2830772.2830793)
+* [Prefetch] [Self-contained, accurate precomputation prefetching](https://doi.org/10.1145/2830772.2830816)
+* [Prefetch] [IMP: indirect memory prefetcher](https://doi.org/10.1145/2830772.2830807)
+
+# 2016
+## MICRO 2016
+
+* [Prefetch] [pTask: A smart prefetching scheme for OS intensive applications](https://doi.org/10.1109/MICRO.2016.7783706)
+* [Prefetch] [Path confidence based lookahead prefetching](https://doi.org/10.1109/MICRO.2016.7783763)
+
+# 2019
+## MICRO 2019
+
+* [Replacement] [Applying Deep Learning to the Cache Replacement Problem](https://doi.org/10.1145/3352460.3358319)
+* [Prefetch] [DSPatch: Dual Spatial Pattern Prefetcher](https://doi.org/10.1145/3352460.3358325)
+* [Prefetch] [Temporal Prefetching Without the Off-Chip Metadata](https://doi.org/10.1145/3352460.3358300)
+
+# 2020
+## MICRO 2020
+
+* [Instruction Prefetch] [I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing](https://doi.org/10.1109/MICRO50266.2020.00024)
+* [Prefetch] [RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher](https://doi.org/10.1109/MICRO50266.2020.00057)
