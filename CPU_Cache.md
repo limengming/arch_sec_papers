@@ -181,7 +181,7 @@
 ## MICRO 2015
 
 * [Cache Modeling] [The application slowdown model: quantifying and controlling the impact of inter-application interference at shared caches and main memory](https://doi.org/10.1145/2830772.2830803)
-* [Prefetch] [Efficiently prefetching complex address patterns] (https://doi.org/10.1145/2830772.2830793)
+* [Prefetch] [Efficiently prefetching complex address patterns](https://doi.org/10.1145/2830772.2830793)
 * [Prefetch] [Self-contained, accurate precomputation prefetching](https://doi.org/10.1145/2830772.2830816)
 * [Prefetch] [IMP: indirect memory prefetcher](https://doi.org/10.1145/2830772.2830807)
 
@@ -225,7 +225,7 @@
 ## ISCA 2018
 
 * [Prefetch] [Division of Labor: A More Effective Approach to Prefetching](https://doi.org/10.1109/ISCA.2018.00018)
-* [Prefetch] [Criticality Aware Tiered Cache Hierarchy: A Fundamental Relook at Multi-Level Cache Hierarchies] (https://doi.org/10.1109/ISCA.2018.00019)
+* [Prefetch] [Criticality Aware Tiered Cache Hierarchy: A Fundamental Relook at Multi-Level Cache Hierarchies](https://doi.org/10.1109/ISCA.2018.00019)
 * [Replacement, Prefetch] [Rethinking Belady's Algorithm to Accommodate Prefetching](https://doi.org/10.1109/ISCA.2018.00020)
 * [ICache Replacement] [Exploring Predictive Replacement Policies for Instruction Cache and Branch Target Buffer](https://doi.org/10.1109/ISCA.2018.00050)
 
