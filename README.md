@@ -255,7 +255,7 @@
 # 2020
 ## ISCA 2020
 
-* [Replacement] [Bouquet of Instruction Pointers: Instruction Pointer Classifier-based Spatial Hardware Prefetching](https://doi.org/10.1109/ISCA45697.2020.00021)
+* [Prefetcher] [Bouquet of Instruction Pointers: Instruction Pointer Classifier-based Spatial Hardware Prefetching](https://doi.org/10.1109/ISCA45697.2020.00021)
 
 ## MICRO 2020
 
